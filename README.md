@@ -1,2 +1,4 @@
-# U-Jhin's GitHub Page
-- Email: `ujhin942@gmail.com`
+# U-Jhin's GitHub page
+
+## Profile
+- email: `ujhin942@gmail.com`
