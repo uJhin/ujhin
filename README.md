@@ -2,5 +2,5 @@
 I am U-Jhin
 
 ## Profile
-- [profile](https://github.com/uJhin)
+- [GitHub](https://github.com/uJhin)
 - email: `ujhin942@gmail.com`
