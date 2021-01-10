@@ -1,5 +1,5 @@
-# You-Jhin's GitHub page
-I am U-Jhin
+# You-Jhin
+You-Jhin's GitHub page
 
 ## Profile
 - [GitHub](https://github.com/uJhin)
