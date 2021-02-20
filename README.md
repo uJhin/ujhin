@@ -1,3 +1,6 @@
+
+![Banner](images/banner.png)
+
 ### I'm ready to die
 
 *Harry Potter and the Deathly Hallows: Part 2 (2011)*
