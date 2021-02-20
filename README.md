@@ -1,7 +1,7 @@
 
 <div align="center">
   <img alt="banner" src="images/banner.png">
-  <h2>I'm ready to die</h2>
+  <h3>I'm ready to die</h3>
 </div>
 <div align="right">
   <i>Harry Potter and the Deathly Hallows: Part 2 (2011)</i>
