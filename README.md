@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="banner" src="images/banner.png">
+  <img alt="Banner" src="images/Banner.png">
   <h3>I'm ready to die</h3>
 </div>
 <div align="right">
