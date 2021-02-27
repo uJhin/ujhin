@@ -1,9 +1,9 @@
 
 <div align="center">
   <a href="https://github.com/uJhin">
-    <img alt="Banner" src="images/Banner.png">
-    <br/>
     <img alt="uJhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uJhin">
+    <br/><br/>
+    <img alt="Banner" src="images/Banner.png">
   </a>  
 </div>
 
