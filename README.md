@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/uJhin">
-    <img alt="uJhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uJhin&show_icons=true&theme=dark">
+    <img alt="uJhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uJhin&show_icons=true&theme=highcontrast">
 <!--     <br/><br/> -->
 <!--     <img alt="Banner" src="images/Banner.png"> -->
   </a>  
